@@ -1,0 +1,163 @@
+@media (max-width: 768px) {
+  .facebook{
+    left: 75%;
+  }
+  .linkedin {
+    left: 85%;
+  }
+  .ep-eye {
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    max-width: 300px;
+  }
+  .edzel {
+    font-size: 10vw;
+    display: absolute;
+    top: 1%;
+
+  }
+  .paragraph {
+    font-size: 4vw;
+    display: absolute;
+    top: .5%;
+    margin-top: 3%;
+    margin-bottom: 10%;
+  }
+  .eye-game {
+    height: 50vw;
+    width: 90vw;
+
+  }
+  #gameCanvas {
+    height: 50vw;
+    width: 90vw;
+  }
+  .ombre1 {
+      display: none;
+    }
+  .ombre2 {
+      display: none;
+    }
+  .ombre3 {
+      display: none;
+    }
+  .ombre4 {
+      display: none;
+    }
+  .scene1 {
+    margin: 7vw auto 0 auto;
+    width: 90vw;
+  }
+  .electronics__face--front {
+    width: 90%;
+  }
+  .electronics__face--back {
+    width: 60vw;
+    height: 50vw;
+    top: 25%;
+    left: 15vw;
+  }
+  .electronics-text {
+    font-size: 4vw;
+  }
+  .product-text{
+    top: 9vw;
+    font-size: 5vw;
+  }
+  .scene2 {
+    margin: 7vw auto 0 auto;
+    width: 90vw;
+  }
+  .electrical__face--front{
+    padding-top: 20vw;
+    width: 90%;
+  }
+  .electrical__face--back {
+    top: 30vw;
+    width: 50vw;
+    height: 40vw;
+    left: 20vw;
+  }
+  .electrical-text {
+    font-size: 4vw;
+  }
+  .electrical-systems {
+    top: 9vw;
+    font-size: 5vw;
+  }
+  .scene3 {
+    margin: 7vw auto 0 auto;
+    width: 90vw;
+  }
+  .programming__face--front {
+    padding-top: 18vw;
+    padding-right: 10vw;
+    width: 105%;
+  }
+  .programming__face--back {
+    top: 25vw;
+    width:48vw;
+    height: 30vw;
+    left: 20vw;
+  }
+  .programming-text {
+    font-size: 4vw
+  }
+  .programming-code {
+    top: 9vw;
+    font-size: 5vw;
+  }
+  .scene4 {
+    margin: 7vw auto 0 auto;
+    width: 90vw;
+  }
+  .model__face--front {
+    padding-top: 20vw;
+    width: 90%;
+  }
+  .model__face--back {
+    top: 23vw;
+    width:48vw;
+    height: 40vw;
+    left: 20vw;
+  }
+  .model-text{
+    font-size: 4vw;
+  }
+  .model-code {
+    top: 9vw;
+    font-size: 5vw;
+  }
+  .skill--electronics {
+    font-size: 3vw;
+    line-height: 3.5vw;
+    margin: 0;
+    position: absolute;
+    top: 8vw;
+    left: auto;
+  }
+  .skill--electrical {
+    font-size: 3vw;
+    line-height: 3.5vw;
+    margin: 0;
+    position: absolute;
+    top: 8vw;
+    left: 3vw;
+  }
+  .skill--programming {
+    font-size: 3vw;
+    line-height: 3.5vw;
+    margin: 0;
+    position: absolute;
+    top: 5vw;
+    left: 3vw;
+  }
+  .skill--model {
+    font-size: 3vw;
+    line-height: 3.5vw;
+    margin: 0;
+    position: absolute;
+    top: 5vw;
+    left: 7vw;
+  }
